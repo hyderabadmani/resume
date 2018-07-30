@@ -1,0 +1,1190 @@
+CheatSheet
+??xColor Picker
+
+CE5937
+ 
+1
+ 
+color: #CE5937;
+Text color
+
+background-color:#CE5937;
+Background
+
+border: 3px solid #CE5937;
+Box border
+
+text-shadow: 1px 2px 2px #CE5937;
+Text shadow
+
+box-shadow: 2px 2px 7px 1px #CE5937;
+Box shadow
+??xCharacters
+ 
+
+&nbsp;
+
+&#160;
+ 
+á
+
+&aacute;
+
+&#225;
+ 
+à
+
+&agrave;
+
+&#224;
+ 
+â
+
+&acirc;
+
+&#226;
+ 
+ä
+
+&auml;
+
+&#228;
+ 
+ã
+
+&atilde;
+
+&#227;
+ 
+å
+
+&aring;
+
+&#229;
+ 
+&
+
+&amp;
+
+&#38;
+ 
+<
+
+&lt;
+
+&#60;
+ 
+>
+
+&gt;
+
+&#62;
+ 
+"
+
+&quot;
+
+&#34;
+ 
+'
+
+&apos;
+
+&#39;
+‹
+
+&lsaquo;
+
+&#8249;
+ 
+›
+
+&rsaquo;
+
+&#8250;
+ 
+«
+
+&laquo;
+
+&#171;
+ 
+»
+
+&raquo;
+
+&#187;
+ 
+?
+
+
+&#9758;
+ 
+$
+
+&dollar;
+
+&#36;
+ 
+¢
+
+&cent;
+
+&#162;
+ 
+£
+
+&pound;
+
+&#163;
+ 
+¥
+
+&yen;
+
+&#165;
+ 
+€
+
+&euro;
+
+&#8364;
+ 
+?
+
+
+&#x20B9;
+ 
+?
+
+
+&#x20BD;
+?
+
+
+&#x5143;
+ 
+©
+
+&copy;
+
+&#169;
+ 
+®
+
+&reg;
+
+&#174;
+ 
+?
+
+
+&#9748;
+ 
+?
+
+
+&#9749;
+ 
+?
+
+
+&#9977;
+ 
+?
+
+
+&#9924;
+ 
+?
+
+
+&#9760;
+ 
+?
+
+
+&#9762;
+ 
+?
+
+&spades;
+
+&#9824;
+ 
+?
+
+&clubs;
+
+&#9827;
+ 
+?
+
+&hearts;
+
+&#9829;
+?
+
+&diams;
+
+&#9830;
+ 
+?
+
+
+&#9650;
+ 
+?
+
+
+&#9651;
+ 
+?
+
+
+&#9711;
+ 
+?
+
+
+&#9724;
+ 
+§
+
+&sect;
+
+&#167;
+ 
+¶
+
+&para;
+
+&#182;
+ 
+?
+
+&phone;
+
+&#9742;
+ 
+?
+
+
+&#9744;
+ 
+?
+
+
+&#9745;
+ 
+?
+
+
+&#9746;
+ 
+?
+
+
+&#10004;
+?
+
+
+&#10008;
+ 
+?
+
+
+&#9786;
+ 
+?
+
+
+&#9787;
+ 
+?
+
+
+&#9834;
+ 
+?
+
+
+&#9835;
+ 
+?
+
+
+&#9872;
+ 
+?
+
+
+&#9993;
+ 
+?
+
+
+&#9998;
+ 
+?
+
+
+&#9728;
+ 
+?
+
+
+&#10032;
+ 
+?
+
+
+&#9733;
+ 
+?
+
+
+&#10077;
+?
+
+
+&#10078;
+ 
+?
+
+
+&#10084;
+ 
+†
+
+&dagger;
+
+&#8224;
+ 
+?
+
+
+&#10148;
+ 
+?
+
+
+&#10151;
+ 
+?
+
+&larr;
+
+&#8592;
+ 
+?
+
+&uarr;
+
+&#8593;
+ 
+?
+
+&rarr;
+
+&#8594;
+ 
+?
+
+&darr;
+
+&#8595;
+ 
+?
+
+&nwarr;
+
+&#8598;
+ 
+?
+
+&nearr;
+
+&#8599;
+ 
+?
+
+&searr;
+
+&#8600;
+?
+
+&swarr;
+
+&#8601;
+ 
+™
+
+&trade;
+
+&#8482;
+ 
+@
+
+&commat;
+
+&#64;
+ 
+?
+
+&check;
+
+&#10003;
+ 
+?
+
+
+&#x2103;
+ 
+?
+
+
+&#x2109;
+ 
++
+
+&plus;
+
+&#43;
+ 
+×
+
+&times;
+
+&#215;
+ 
+÷
+
+&divide;
+
+&#247;
+ 
+=
+
+&equals;
+
+&#61;
+ 
+?
+
+&ne;
+
+&#8800;
+ 
+¼
+
+&frac14;
+
+&#188;
+½
+
+&frac12;
+
+&#189;
+ 
+¾
+
+&frac34;
+
+&#190;
+ 
+?
+
+&frac13;
+
+&#8531;
+ 
+?
+
+&frac23;
+
+&#8532;
+ 
+!
+
+&excl;
+
+&#33;
+ 
+?
+
+&quest;
+
+&#63;
+ 
+–
+
+&ndash;
+
+&#8211;
+ 
+—
+
+&mdash;
+
+&#8212;
+ 
+?
+
+
+&#8512;
+ 
+?
+
+
+&#8486;
+ 
+?
+
+
+&#8505;
+ 
+?
+
+
+&#8470;
+?
+
+
+&#9898;
+ 
+??
+
+
+&#128578;
+ 
+??
+
+
+&#128512;
+ 
+??
+
+
+&#128522;
+ 
+??
+
+
+&#128532;
+ 
+??
+
+
+&#127782;
+ 
+??
+
+
+&#127772;
+ 
+??
+
+
+&#127803;
+ 
+??
+
+
+&#127849;
+ 
+??
+
+
+&#127867;
+ 
+??
+
+
+&#127828;
+ 
+??
+
+
+&#127917;
+??
+
+
+&#127946;
+ 
+??
+
+
+&#127957;
+ 
+??
+
+
+&#128053;
+ 
+??
+
+
+&#128058;
+ 
+??
+
+
+&#128062;
+ 
+??
+
+
+&#128064;
+ 
+??
+
+
+&#128077;
+ 
+??
+
+
+&#128078;
+ 
+??
+
+
+&#128102;
+ 
+??
+
+
+&#128106;
+ 
+??
+
+
+&#128107;
+ 
+??
+
+
+&#128128;
+??
+
+
+&#128148;
+ 
+??
+
+
+&#128169;
+ 
+??
+
+
+&#128170;
+ 
+??
+
+
+&#128176;
+ 
+??
+
+
+&#128190;
+ 
+??
+
+
+&#128193;
+ 
+??
+
+
+&#128204;
+ 
+??
+
+
+&#128273;
+ 
+??
+
+
+&#128299;
+ 
+??
+
+
+&#128679;
+ 
+??
+
+
+&#128736;
+ 
+??
+
+
+&#128722;
+All Characters
+??xHow to use?
+
+??xTags
+Div Section
+<div>Block element</div>
+Headings
+<h1>Page title</h1>
+<h2>Subheading</h2>
+<h3>Tertiary heading</h3>
+<h4>Quaternary heading</h4>
+Paragraph
+<p style="text-align: center;">text</p>
+Image
+<img src="/demo.jpg" alt="description" height="48" width="100" />
+Outbound Link
+<a href="https://htmlg.com/" target="_blank" rel="nofollow">Click here</a>
+Mailto link
+<a href="mailto:me@ruwix.com?Subject=Hi%20mate" target="_top">Send Mail</a>
+Inner anchor (jump on page)
+<a href="#footer">Jump to footnote</a>
+<br />
+<a name="footer"></a>Footnote content
+Bold text
+<strong>Bold text</strong>
+Italic text
+<em>Italic text</em>
+Underlined text
+<span style="text-decoration: underline;">Underlined text</span>
+Iframe
+<iframe src="link.html" width="200" height="200">
+</iframe> 
+Abbreviation
+<abbr title="Hypertext Markup Language">HTML</abbr>
+Comment
+<!-- HTML
+Comment -->
+Horizontal Line
+<hr />
+Line break
+<br />
+Quotation
+<q>Success is a journey not a destination.</q>
+<blockquote cite="https://ruwix.com/">
+The Rubik's Cube is the World’s best selling puzzle toy.
+</blockquote> 
+Video
+<video width="200" height="150" controls>
+	<source src="vid.mp4" type="video/mp4">
+	<source src="vid.ogg" type="video/ogg">
+	No video support.
+</video>
+Audio
+ <audio controls>
+    <source src="sound.ogg" type="audio/ogg">
+    <source src="sound.mp3" type="audio/mpeg">
+    No audio support.
+</audio> 
+??xStructures
+Table
+<table><caption>Phone numbers</caption>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th colspan="2">Phone</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>John</td>
+            <td>577854</td>
+            <td>577855</td>
+        </tr>
+        <tr>
+            <td>Jack</td>
+            <td>577856</td>
+            <td>577857</td>
+        </tr>
+    </tbody>
+    <tfoot>
+        <tr>
+            <td>&nbsp;</td>
+            <td>Personal</td>
+            <td>Office</td>
+        </tr>
+    </tfoot>
+</table>
+Unordered list
+<ul>
+  <li>First</li>
+  <li>Second</li>
+  <li>Third</li>
+</ul>
+Definition list
+<dl>
+  <dt>HTML</dt>
+  <dd>Hypertext Markup Language</dd>
+  <dt>CSS</dt>
+  <dd>Cascading Style Sheets </dd>
+</dl>
+Form
+<form action="/action.php" method="post">
+    Name: <input name="name" type="text" /> <br /> 
+    Age: <input max="99" min="1" name="age" step="1" type="number" value="18" /> <br />
+    <select name="gender">
+        <option selected="selected" value="male">Male</option>
+        <option value="female">Female</option>
+    </select><br /> 
+    <input checked="checked" name="newsletter" type="radio" value="daily" /> Daily <input name="newsletter" type="radio" value="weekly" /> Weekly<br />
+    <textarea cols="20" name="comments" rows="5">Comment</textarea><br />
+    <label><input name="terms" type="checkbox" value="tandc" />Accept terms</label> <br />
+    <input type="submit" value="Submit" />
+</form>
+??xAttributes
+SYNTAX
+<tag attributename="value" />
+- lowecase attributes, quote values
+Global attributes
+accesskey, class, contenteditable, data-*, dir, draggable, hidden, id, lang, spellcheck, style, tabindex, title
+<div id="demo" class="big" dir="ltr" lang="en" 
+style="color: red;" tabindex="0" title="Tooltip" 
+contenteditable="true" spellcheck="true" 
+data-htmlcheat="99">Hello World!</div>
+Internationalization: dir, lang, xml:lang
+<html lang="en-US">
+...
+     <p dir="rtl">Right to left (Arabic)</p> 
+...
+</html>
+Link: download, href, hreflang, media, rel, target, type
+<a href="https://htmlg.com/" target="_blank" rel="external" hreflang="en" type="text/html">
+    Link
+</a>
+Image: src, alt, height, ismap, longdesc, src, srcset, usemap, width
+<img src="/demo.jpg" alt="description" 
+height="48" width="100" longdesc="desc.txt" />
+All attributes
+acceptform, input
+accept-charsetform
+accesskeyGlobal attribute
+actionform
+alignapplet, caption, col, colgroup, hr, iframe, img, table, tbody, td, tfoot , th, thead, tr
+altapplet, area, img, input
+asyncscript
+autocompleteform, input
+autofocusbutton, input, keygen, select, textarea
+autoplayaudio, video
+autosaveinput
+bgcolorbody, col, colgroup, marquee, table, tbody, tfoot, td, th, tr
+bufferedaudio, video
+challengekeygen
+charsetmeta, script
+checkedcommand, input
+citeblockquote, del, ins, q
+classGlobal attribute
+codeapplet
+codebaseapplet
+colorbasefont, font, hr
+colstextarea
+colspantd, th
+contentmeta
+contenteditableGlobal attribute
+contextmenuGlobal attribute
+controlsaudio, video
+coordsarea
+dataobject
+data-*Global attribute
+datetimedel, ins, time
+defaulttrack
+deferscript
+dirGlobal attribute
+dirnameinput, textarea
+disabledbutton, command, fieldset, input, keygen, optgroup, option, select, textarea
+downloada, area
+draggableGlobal attribute
+dropzoneGlobal attribute
+enctypeform
+forlabel, output
+formbutton, fieldset, input, keygen, label, meter, object, output, progress, select, textarea
+formactioninput, button
+headerstd, th
+heightcanvas, embed, iframe, img, input, object, video
+hiddenGlobal attribute
+highmeter
+hrefa, area, base, link
+hreflanga, area, link
+http-equivmeta
+iconcommand
+idGlobal attribute
+integritylink, script
+ismapimg
+itempropGlobal attribute
+keytypekeygen
+kindtrack
+labeltrack
+langGlobal attribute
+languagescript
+listinput
+loopaudio, bgsound, marquee, video
+lowmeter
+manifesthtml
+maxinput, meter, progress
+maxlengthinput, textarea
+mediaa, area, link, source, style
+methodform
+mininput, meter
+multipleinput, select
+mutedvideo
+namebutton, form, fieldset, iframe, input, keygen, object, output, select, textarea, map, meta, param
+novalidateform
+opendetails
+optimummeter
+patterninput
+pinga, area
+placeholderinput, textarea
+postervideo
+preloadaudio, video
+radiogroupcommand
+readonlyinput, textarea
+rela, area, link
+requiredinput, select, textarea
+reversedol
+rowstextarea
+rowspantd, th
+sandboxiframe
+selectedoption
+sizeinput, select
+slotGlobal attribute
+spancol, colgroup
+spellcheckGlobal attribute
+srcaudio, embed, iframe, img, input, script, source, track, video
+startol
+stepinput
+styleGlobal attribute
+tabindexGlobal attribute
+targeta, area, base, form
+titleGlobal attribute
+typebutton, input, command, embed, object, script, source, style, menu
+usemapimg, input, object
+valuebutton, option, input, li, meter, progress, param
+widthcanvas, embed, iframe, img, input, object, video
+wraptextarea
+??xAds
+
+ 
+??xGibberish text
+Lorem ipsum Cupcake ipsum Random English Chinese Spanish
+??xCreate iframe
+URL: 
+https://
+Width: 
+100
+  Height: 
+100
+  
+Scrolling: Border: Generate iframe
+??xCreate Table
+Cols: 
+3
+Rows: 
+3
+Border: 
+0
+Border Collapse: 
+Width: 
+0
+  Cellpadding: 
+0
+Generate table Div Tables
+??xCreate Link
+URL: 
+https://
+Text: 
+Title: 
+Target: Generate link
+??xCreate Image
+Source: 
+https://
+Description: 
+Style: 
+Width: 
+  Height: 
+  
+Float: Generate image
+??xCreate List
+List type: 
+Unordered: Ordered: Generate list
+??xBlank Page
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Page Title</title>
+    <meta name="description" content="Roughly 155 characters">
+    <link rel="stylesheet" type="text/css" href="mystyle.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="script.js"></script>
+  </head>
+  <body>
+    <!-- Content -->
+  </body>
+</html>
+Download Package
+??x.htaccess
+Force HTTPS
+RewriteEngine on
+RewriteCond %{HTTPS} !on
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
+Force www
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^htmlg\.com [NC]
+RewriteRule ^(.*)$ http://www.htmlg.com/$1 [L,R=301,NC]
+Force non-www
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^www\.htmlg\.com [NC]
+RewriteRule ^(.*)$ http://htmlg.com/$1 [L,R=301]
+Custom Error Pages
+ErrorDocument 500 "Sorry, something went wrong!"
+ErrorDocument 401 https://htmlg.com/404/
+ErrorDocument 404 404error.html
+Redirect Entire Site
+Redirect 301 / https://htmlg.com/
+Permanent Page Redirect
+Redirect 301 /oldlink.html https://htmlg.com/help/
+Redirect 301 /oldlink https://htmlg.com/about/
+Alias Directory
+RewriteEngine On
+RewriteRule ^source_directory/(.*) target_directory/$1
+Remove .php Extension
+RewriteEngine On
+RewriteCond %{SCRIPT_FILENAME} !-d
+RewriteRule ^([^.]+)$ $1.php [NC,L]
+Block IP Address
+Order deny,allow
+Allow from all
+Deny from 123.123.123.123
+Deny from 123.123.123.123
+Allow Access From Only One IP
+# Require all denied
+# Require ip 123.123.123.123
+??xRobots.txt
+Example
+User-agent: *
+Disallow: /dont-index-this-folder/
+Sitemap: https://htmlcheatsheet.com/sitemap.xml
+Ban all robots
+User-agent: *
+Disallow: /
+??xHead Tags
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="canonical" href="https://htmlcheatsheet.com/" />
+    <title>HTML CheatSheet</title>
+    <meta name="description" content="A brief page description">
+    <meta name="keywords" content="html,cheatsheet" />
+    <meta property="fb:admins" content="YourFacebookUsername" />
+    <meta property="og:title" content="HTML CheatSheet" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://htmlcheatsheet.com/" />
+    <meta property="og:image" content="https://htmlcheatsheet.com/images/html-cheatsheet.jpg" />
+    <meta property="og:description" content="A brief page description" />
+    <link rel="apple-touch-icon" href="apple-touch-icon.png">
+    <link rel="alternate" hreflang="es" href="https://htmlcheatsheet.com/spanish/" />
+    <link rel="stylesheet" href="/styles.css">
+    <script src="/script.js"></script>
+</head>
+??xOpen Graph
+<!doctype html>
+<html xmlns:og="http://ogp.me/ns#">
+<head>
+<title>The Rock (1996)</title>
+<meta property="og:title" content="Cheat Sheet" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://htmlcheatsheet.com/" />
+<meta property="og:image" content="https://htmlcheatsheet.com/demo.jpg" />
+Optional
+<meta property="og:audio" content="https://htmlcheatsheet.com/track.mp3" />
+<meta property="og:description" content="A brief description" />
+<meta property="og:determiner" content="the" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:locale:alternate" content="es_ES" />
+<meta property="og:site_name" content="HTML CheatSheet" />
+<meta property="og:video" content="https://htmlcheatsheet.com/video.swf" />
+??xHTML5 Page Structure
+header, nav, main, article, section, aside, footer, address
+?
+<header>
+    <div id="logo">HTML</div>
+    <nav>  
+        <ul>
+            <li><a href="/">Home</a>
+            <li><a href="/link">Page</a>
+        </ul>
+    </nav>
+</header>
+<main role="main">
+    <article>
+        <h2>Title 1</h2>
+        <p>Content 1</p>
+    </article>
+    <article>
+        <h2>Title 2</h2>
+        <p>Content 2</p>
+    </article>
+</main>
+<section>
+    A group of related content
+</section>
+<aside>
+    Sidebar
+</aside>
+<footer>
+    <p>&copy; HTML CheatSheet</p>
+    <address>
+        Contact <a href="mailto:me@htmlg.com">me</a>
+    </address>
+</footer>
+??xUseful Links
+RGB color codes Word doc to HTML Div tables HTML cleaner HTML blog HTML editor Basic concepts HTML validator W3 schools Can I use?
+HTML
+
+1
+?
+CSS
+
+1
+?
+Apply CSS
+Preview
+
+p
+Online Interactive HTML Cheat Sheet
+HTML Cheat Sheet contains useful code examples and web developer tools, markup generators and more on a single page. Switch to other web developer sheets, like CSS or JavaScript. These pages were created as a quick guide for those who already know how to work with these languages. 
+Make sure you bookmark this site for a quick and easy access!
+
+The HTML editor on the bottom of the page gives you a live preview as you edit your HTML and CSS code.
+
+We have listed the most common code generators. Set up your preferences and easily generate HTML code for iframe, table, link (anchor), list or image.
+
+The operation of the site is really intuitive, just highlight a code snippet and copy-paste it in your project. Interact with the panels of the website, try the buttons, sliders or look around in the useful links section!
+
+Color picker – Choose a color in the input field to get its Hex and RGB code and a code snippet to use for styling.
+Characters – Retreive the most common character codes or look around in the full list of thousands of characters organized in categories.
+Tags – The most common HTML tags presented with examples.
+Structures – Block of codes consisting of more tags which are always used together: table, list, definition list and form.
+Attributes – HTML tag attributes provide additional information about the elements.
+Gibberish text – Lorem ipsum and other filler text generator to fill pages with content.
+Iframe generator – Set the URL to be accessed, the dimmensions and other attributes to get the iframe HTML code.
+Table generator – Specify the dimmensions of the grid and other attributes to generate the HTML table.
+Link generator – Create an anchor tag setting where to point, what text and tooltip to display. You can optionally set it to open the link in new tab.
+Image generator – Create an HTML image tag, setting the link to the image and some style properties.
+List generator – HTML list generator creates a demo list containing two items, based on the selected list type.
+.htaccess – The most common htaccess codes to force https, for redirect, for link rewrite and blocking IP addresses.
+Robots.txt – Small robots text file example to allow or ban web crawlers on your website.
+Head tags – Make sure you don't miss anything importan from the head section of the website.
+Open graph – Complete the head section with the Open Graph protocol to help social media sites understand the page.
+HTML5 page structure – A demo page built using the HTML5 elements.
+Bookmark this page with Ctrl + D.
+
