@@ -1,0 +1,54 @@
+{
+  "career":{
+    "info":"The biggest advantage a fresher brings to an Organization is the flexibility and moldability. Believe me, it is a big inconvenience for a company if a fresher comes with the rigid demand on the role and technology he should be working on."
+  },
+  "education":[
+    {
+      "degree":"B-tech(computer science and engineering)",
+      "institute":"siddharth college of engineering",
+      "data":["2015-19","78"]
+
+    },
+    {
+      "degree":"intermediate(m.p.c)",
+      "institute":"narayana college",
+      "data":["2012-13","99.2"]
+    },
+    {
+      "degree":"s.s.c",
+      "institute":"ravindhra bharathi school",
+      "data":["2012","9.0"]
+    }
+
+
+  ],
+  "skills":[
+    {
+      "title":"programming language",
+      "set":["java","c","python","c++"]
+    },
+    {
+      "title":"web technologies",
+      "set":["html","css","php","javascript"]
+    },
+    {
+      "title":"databases",
+      "set":["sql","mysql","oracle","nosql"]
+    },
+    {
+      "title":"operating system",
+      "set":["windows","mac","linux","dos"]
+    }
+  ],
+  "achievements":[
+    {
+      "achievedData":"got first prize in ppt presentation."
+    },
+    {
+      "achievedData":"got first prize in  coco."
+    },
+    {
+      "achievedData":"got first prize in  running."
+    }
+  ]
+}
